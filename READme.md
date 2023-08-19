@@ -5,7 +5,7 @@
 
 > 🌝 Thanks to this community, I have mastered the basic skills of layout and design.
 
-This [funny project]() I implemented in a step-by-step tutorial. 
+This [funny project](https://mari-devop.github.io/pinguin_project/) I implemented in a step-by-step tutorial. 
 
 ![](image/pingvi.jpg)
 
